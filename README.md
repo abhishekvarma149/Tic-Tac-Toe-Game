@@ -2,6 +2,8 @@
 
 A classic Tic-Tac-Toe web game built using HTML, CSS, and vanilla JavaScript. 
 
+**[Play the Live Demo](https://tic-tac-toe-game-olive-nine.vercel.app/)**
+
 ![Tic-Tac-Toe Game](screenshot.png)
 
 ## Features
